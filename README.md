@@ -1,1 +1,1 @@
-# tic_tac_toe_lua_love2d
+# Крестики нолики for ElephantGames
